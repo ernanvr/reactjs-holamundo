@@ -1,7 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import HolaMundo from './components/Holamundo';
 import Button from './components/Button';
 import reportWebVitals from './reportWebVitals';
 
